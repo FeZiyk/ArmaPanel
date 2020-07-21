@@ -1,8 +1,7 @@
 /*
     File: fn_whoDineIt.sqf
     Author: Feziyk
-    Teamspeak 3: ts.heavenlife.fr
-    Web site: https://heavenlife.fr
+    Web site: https://www.armapanel.xyz
 
     Description:
     Log death to database.
